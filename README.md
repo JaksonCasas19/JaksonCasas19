@@ -5,7 +5,6 @@
 <h1 align="center">Welcome to my repository!</h1>
 <h3 align="center">I'm a System Engineer | Full Stack Developer :computer:</h3>
 </p>
-
 <p align="center"><strong>P e r ú</strong><br />¡Data technologies lover❤️!</p>
 <img align="center" src="https://raw.githubusercontent.com/JaksonCasas19/JaksonCasas19/656c7685aceea2e50b4f7e5ecd976b22c1497f8c/github-contribution-grid-snake.svg" />
 
